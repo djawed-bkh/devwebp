@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+}
+#input{
+    width:10cm;
+    margin-left: 12cm;
+}
+.caption{
+    text-align: center;
+}
+
+footer{
+    background-attachment: scroll;
+    margin-bottom: 4px;
+    margin-left: 22cm;
+}
